@@ -1,0 +1,11 @@
+# Colors
+dark = "#0f0f0f"
+light = "#d4be98"
+gray = "#32302f"
+red = "#ea6962"
+green = "#a9b665"
+yellow = "#d8a657"
+blue = "#7daea3"
+magenta = "#d3869b"
+cyan = "#89b482"
+white = "#d4be98"
